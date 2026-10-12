@@ -1,6 +1,7 @@
 # Odpowiedzi na zadanie 1
 ## Inteligencji od człowieka wymagają następujące zadania:
 - komponowanie muzyki
+- - tłumaczenie tekstu
 - kierowanie samochodem
 - programowanie (pisanie programów komputerowych)
 - testowanie oprogramowania
@@ -10,8 +11,8 @@
 ## Inteligencji od człowieka nie wymagają następujące zadania:
 wypełnianie deklaracji PIT,
 - streszczanie tekstu,
-- tłumaczenie tekstu,
 - klasyfikacja tekstu do kategorii tematycznych,
 - odpowiadanie na proste pytania zadawane w języku naturalnym (np. polskim),
 - symboliczne obliczanie pochodnych funkcji,
 - symboliczne całkowanie funkcji
+## Te zadania mogą być wypelniane tylko z pomocą algorytmów
